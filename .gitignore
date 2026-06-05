@@ -1,0 +1,38 @@
+# next.js
+/.next/
+/out/
+
+# dependencies
+/node_modules
+
+# build
+/build
+
+# env files
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# OS
+.DS_Store
+*.pem
+
+# debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# python venv (pre-existing, not part of Next.js project)
+.venv/
+
+# Claude Code local config (machine-specific permissions)
+.claude/settings.local.json
+
+# VS Code workspace file (optional, commit if you want shared settings)
+*.code-workspace
