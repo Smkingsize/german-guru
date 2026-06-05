@@ -2,7 +2,7 @@
 
 Landing page for **GermanGuru** — conversational German lessons with Ahmad and Ben.
 
-**Live site:** [GermanGuru](https://vercel.com/smkingsizes-projects/german-guru-e9we)
+**Live site:** [GermanGuru](https://german-guru-e9we.vercel.app/))
 
 ---
 
